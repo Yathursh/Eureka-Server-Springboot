@@ -6,7 +6,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 //import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 
 
-
+//Enable server for configuration 
 @SpringBootApplication
 @EnableEurekaServer
 public class SeverSampleCxszApplication {
